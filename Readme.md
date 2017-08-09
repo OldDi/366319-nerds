@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Дмитрий Фурсов](https://up.htmlacademy.ru/htmlcss/18/user/366319).
-* Наставник: `Михаил Поданев` (https://htmlacademy.ru/profile/mpodanev).
+* Наставник: [Михаил Поданев] (https://htmlacademy.ru/profile/mpodanev).
 
 ---
 
